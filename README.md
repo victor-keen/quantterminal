@@ -1,5 +1,7 @@
 # 🚀 Deployment Guide: GitHub & Streamlit Community Cloud (Free)
 
+you can access the live app at https://quantterminal-king.streamlit.app/
+
 This guide walks you through uploading your stock analyzer Streamlit app to GitHub and deploying it on **Streamlit Community Cloud** completely for free.
 
 ---
